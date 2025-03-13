@@ -37,7 +37,7 @@ The workflow presented in this repository has the purpose of training translatio
 
 ### Workflow
 
-- An evaluation project is set up in Label Studio that used the MQM/H-Quest labeling configuration
+- An evaluation project is set up in Label Studio that uses the MQM/H-Quest labeling configuration
 - A group of translation evaluators evaluate texts within Label Studio
   - They mark individual errors following MQM
   - They rate the quality of the content as a whole in terms of correspondence to the source text and readability as a standalone document given the proejct specifications following H-Quest
