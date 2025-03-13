@@ -9,8 +9,8 @@ This repository presents a translation quality management system (TQMS) based up
 The workflow and materials presented in this repository follow best practices outlined in the following ASTM F43 standards:
 
 - F2575 Standard Practice for Language Translation
-- WK46396 Practice for Analytic Evaluation of Translation Quality (MQM) (draft standard)*
-- WK54884 Holistic Quality Evaluation System for Translation (H-Quest) (draft standard)*
+- WK46396 Practice for Analytic Evaluation of Translation Quality (MQM) (draft standard)
+- WK54884 Holistic Quality Evaluation System for Translation (H-Quest) (draft standard)
 
 According to F2575, translation projects must begin with the definition of specifications (requirements, outcomes) and it is recommended that a translation > editing > proofreading (TEP) workflow be followed. WK46396 presents a methodology for identifying translation errors based on the [MQM typology](https://themqm.org/the-mqm-typology/) to carry out preventative and corrective action. WK54884 presents a methodology for evaluating the quality of a translation as a whole document, in contrast to the decontextualized sentence-by-sentence approach that is the status quo of translation technology. This repository combines the MQM and H-Quest methodologies in evaluating translation quality.
 
@@ -18,15 +18,15 @@ According to F2575, translation projects must begin with the definition of speci
 
 In status quo workflows, translation quality evaluations take place in translation tools in which source and target content is subdivided into decontextualized matching sentence pairs. The workflow presented in this repository specifically departs from that approach. Rather than presenting texts for sentence-by-sentence evaluation in a translation technology environment, whole texts are presented for evaluation within [Label Studio](https://labelstud.io) for this implementation. This whole text approach allows for a contextualized quality evaluation to take place.
 
-To annotate texts within Label Studio, a `label_config` file presenting the annotation methodology is required. The current iteration of the `label_config` file based on MQM and H-Quest is shared within this repository.
+To annotate texts within Label Studio, a `label_config` file presenting the annotation methodology is required. The current iteration of the `label_config` file based on MQM and H-Quest that is being within this project is shared within this repository.
 
 Note: In this labeling configuration, the following adjustments have been made to the current implementation of the MQM Core Typology:
 - Textual Conventions have been moved from the Linguistic Conventions to the Style dimension. That categorization made more sense to me, since a text should match the style of its particular text type.
-- Unidiomatic Style and Awkward Style into one error: Unnatural Style. This avoids issues with differentiating between these two error types.
+- Unidiomatic Style and Awkward Style have been combined into one error: Unnatural Style. This avoids issues with differentiating between these two error types.
 
 ### Starting Point
 
-Well, at first translation quality evaluators marking errors according to MQM (or any error typology) will do so inconsistently. This is because people view quality subjectively and an optimal error categorization is often not immediately clear. By using tools like visualizations and scoring, we can see where our ideas don't overlap and work toward a harmonized performance.
+At first translation quality evaluators marking errors according to MQM (or any error typology) will do so inconsistently. This is because people view quality subjectively and an optimal error categorization is often not immediately clear. By using tools like visualizations and scoring, we can see where ideas don't overlap and work toward a harmonized performance.
 
 ### Outcomes
 
