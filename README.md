@@ -18,7 +18,7 @@ According to F2575, translation projects must begin with the definition of speci
 
 In status quo workflows, translation quality evaluations take place in translation tools in which source and target content is subdivided into decontextualized matching sentence pairs. The workflow presented in this repository specifically departs from that approach. Rather than presenting texts for sentence-by-sentence evaluation in a translation technology environment, whole texts are presented for evaluation within [Label Studio](https://labelstud.io) for this implementation. This whole text approach allows for a contextualized quality evaluation to take place.
 
-To annotate texts within Label Studio, a `label_config` file presenting the annotation methodology is required. The current iteration of the `label_config` file based on MQM and H-Quest that is being within this project is shared within this repository.
+To annotate texts within Label Studio, a `label_config` file presenting the annotation methodology is required. The current iteration of the `label_config` file based on MQM and H-Quest that is being used within this project is shared within this repository.
 
 Note: In this labeling configuration, the following adjustments have been made to the current implementation of the MQM Core Typology:
 - Textual Conventions have been moved from the Linguistic Conventions to the Style dimension. That categorization made more sense to me, since a text should match the style of its particular text type.
