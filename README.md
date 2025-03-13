@@ -20,6 +20,10 @@ In status quo workflows, translation quality evaluations take place in translati
 
 To annotate texts within Label Studio, a `label_config` file presenting the annotation methodology is required. The current iteration of the `label_config` file based on MQM and H-Quest is shared within this repository.
 
+Note: In this labeling configuration, the following adjustments have been made to the current implementation of the MQM Core Typology:
+- Textual Conventions have been moved from the Linguistic Conventions to the Style dimension. That categorization made more sense to me, since a text should match the style of its particular text type.
+- Unidiomatic Style and Awkward Style into one error: Unnatural Style. This avoids issues with differentiating between these two error types.
+
 ### Outcomes
 
 The workflow presented in this repository has the purpose of training translation evaluators/annotators to produce high quality annotated texts for use in:
