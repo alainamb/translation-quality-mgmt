@@ -24,6 +24,10 @@ Note: In this labeling configuration, the following adjustments have been made t
 - Textual Conventions have been moved from the Linguistic Conventions to the Style dimension. That categorization made more sense to me, since a text should match the style of its particular text type.
 - Unidiomatic Style and Awkward Style into one error: Unnatural Style. This avoids issues with differentiating between these two error types.
 
+### Starting Point
+
+Well, at first translation quality evaluators marking errors according to MQM (or any error typology) will do so inconsistently. This is because people view quality subjectively and an optimal error categorization is often not immediately clear. By using tools like visualizations and scoring, we can see where our ideas don't overlap and work toward a harmonized performance.
+
 ### Outcomes
 
 The workflow presented in this repository has the purpose of training translation evaluators/annotators to produce high quality annotated texts for use in:
@@ -64,4 +68,7 @@ translation-quality-mgmt/
 
 ## License
 This repository is currently licensed under GPL-2.0 license.
+
+## GAI Disclaimer & Acknowledgement
+The notebook presented in this repo was developed using Claude 3.5 Sonnet. Please review the code thoroughly before integrating it into your implementation.
 
