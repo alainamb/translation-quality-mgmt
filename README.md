@@ -63,8 +63,8 @@ translation-quality-mgmt/
 
 - [The MQM Core Typology](https://themqm.org/the-mqm-typology/)
 - ASTM F2575-23e2, Standard Practice for Language Translation
-- ASTM WK46396, Practice for Analytic Evaluation of Translation Quality (draft standard)*
-- ASTM WK54884, Holistic Quality Evaluation System for Translation (draft standard)*
+- ASTM WK46396, Practice for Analytic Evaluation of Translation Quality (draft standard)
+- ASTM WK54884, Holistic Quality Evaluation System for Translation (draft standard)
 
 ## License
 This repository is currently licensed under GPL-2.0 license.
