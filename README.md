@@ -44,7 +44,7 @@ The workflow presented in this repository has the purpose of training translatio
 - JSON-MIN files of their work is exported and processed within the Jupyter notebook provided
 - Within the Jupyter notebook, JSONs are pre-processed, exploratory analysis takes place, and performance around exact matching, F1 for partial matching, and Kappa for category agreement are calculated
 - Based upon the results determined via Jupyter analysis, an improvement plan that prioritizes the highest priority changes is implemented (i.e. training materials, discussions)
-- The work continues in this way until the annotations by a group of evaluators reaches the minimum threshold scores for exact matching, F1 for partial matching, and Kappa for category agreement
+- The work continues in this way until the annotations by a group of evaluators reach the minimum threshold scores for exact matching, F1 for partial matching, and Kappa for category agreement
 - The evaluators are then deployed to produce annotations that will be used to produce the outcomes identified above.
 
 ### Folder Structure
