@@ -1,0 +1,2709 @@
+{
+  "annotation_data": {
+    "created_at": "2025-08-19T01:07:06.734690Z",
+    "lead_time": 12049.578000000001,
+    "result": [
+      {
+        "from_name": "label",
+        "id": "aNmIARo1Vn",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "labels",
+        "value": {
+          "end": 127,
+          "labels": [
+            "Style"
+          ],
+          "start": 123,
+          "text": "eres"
+        }
+      },
+      {
+        "from_name": "subcategories",
+        "id": "aNmIARo1Vn",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "STYLE: Language register"
+          ],
+          "end": 127,
+          "start": 123,
+          "text": "eres"
+        }
+      },
+      {
+        "from_name": "severity",
+        "id": "aNmIARo1Vn",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "Minor"
+          ],
+          "end": 127,
+          "start": 123,
+          "text": "eres"
+        }
+      },
+      {
+        "from_name": "comments",
+        "id": "aNmIARo1Vn",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "textarea",
+        "value": {
+          "end": 127,
+          "start": 123,
+          "text": [
+            "Aquí es notable que se usa la forma de tú aunque se trata de una comunicación formal."
+          ]
+        }
+      },
+      {
+        "from_name": "label",
+        "id": "W_2jzVJtib",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "labels",
+        "value": {
+          "end": 74,
+          "labels": [
+            "Style"
+          ],
+          "start": 38,
+          "text": "Obtención de permiso de trabajo para"
+        }
+      },
+      {
+        "from_name": "subcategories",
+        "id": "W_2jzVJtib",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "STYLE: Unnatural style"
+          ],
+          "end": 74,
+          "start": 38,
+          "text": "Obtención de permiso de trabajo para"
+        }
+      },
+      {
+        "from_name": "severity",
+        "id": "W_2jzVJtib",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "Minor"
+          ],
+          "end": 74,
+          "start": 38,
+          "text": "Obtención de permiso de trabajo para"
+        }
+      },
+      {
+        "from_name": "comments",
+        "id": "W_2jzVJtib",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "textarea",
+        "value": {
+          "end": 74,
+          "start": 38,
+          "text": [
+            "Hay que tener cuidado con la traducción literal de \"Obtención de permiso de trabajo para...\". Una traducción más idiomática sería: \"Obtaining a work permit as a...\""
+          ]
+        }
+      },
+      {
+        "from_name": "label",
+        "id": "rY7h72mu98",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "labels",
+        "value": {
+          "end": 300,
+          "labels": [
+            "Style"
+          ],
+          "start": 288,
+          "text": "Presentación"
+        }
+      },
+      {
+        "from_name": "subcategories",
+        "id": "rY7h72mu98",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "STYLE: Unnatural style"
+          ],
+          "end": 300,
+          "start": 288,
+          "text": "Presentación"
+        }
+      },
+      {
+        "from_name": "severity",
+        "id": "rY7h72mu98",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "Minor"
+          ],
+          "end": 300,
+          "start": 288,
+          "text": "Presentación"
+        }
+      },
+      {
+        "from_name": "comments",
+        "id": "rY7h72mu98",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "textarea",
+        "value": {
+          "end": 300,
+          "start": 288,
+          "text": [
+            "Tenemos que evitar una traducción literal para la palabra \"presentación\". La traducción idiomática es: \"Format\"."
+          ]
+        }
+      },
+      {
+        "from_name": "label",
+        "id": "iJ1XpjKIhu",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "labels",
+        "value": {
+          "end": 494,
+          "labels": [
+            "Accuracy"
+          ],
+          "start": 479,
+          "text": "firma autógrafa"
+        }
+      },
+      {
+        "from_name": "subcategories",
+        "id": "iJ1XpjKIhu",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "ACC: Mistranslation"
+          ],
+          "end": 494,
+          "start": 479,
+          "text": "firma autógrafa"
+        }
+      },
+      {
+        "from_name": "severity",
+        "id": "iJ1XpjKIhu",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "Major"
+          ],
+          "end": 494,
+          "start": 479,
+          "text": "firma autógrafa"
+        }
+      },
+      {
+        "from_name": "comments",
+        "id": "iJ1XpjKIhu",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "textarea",
+        "value": {
+          "end": 494,
+          "start": 479,
+          "text": [
+            "Aquí \"firma autógrafa\" se refiere a una \"handwritten signature\". Es importante incluir la palabra \"handwritten\" en la traducción porque si la firma es digital, por ejemplo, es probable que el INM no acepte la petición."
+          ]
+        }
+      },
+      {
+        "from_name": "label",
+        "id": "tFFlyPqcGx",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "labels",
+        "value": {
+          "end": 763,
+          "labels": [
+            "Accuracy"
+          ],
+          "start": 740,
+          "text": "Ley Federal de Derechos"
+        }
+      },
+      {
+        "from_name": "subcategories",
+        "id": "tFFlyPqcGx",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "ACC: Mistranslation"
+          ],
+          "end": 763,
+          "start": 740,
+          "text": "Ley Federal de Derechos"
+        }
+      },
+      {
+        "from_name": "severity",
+        "id": "tFFlyPqcGx",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "Minor"
+          ],
+          "end": 763,
+          "start": 740,
+          "text": "Ley Federal de Derechos"
+        }
+      },
+      {
+        "from_name": "comments",
+        "id": "tFFlyPqcGx",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "textarea",
+        "value": {
+          "end": 763,
+          "start": 740,
+          "text": [
+            "Hay que entender el contenido de la Ley Federal de Derechos para traducir el nombre correctamente. La ley trata de los derechos que la gente tiene que pagar para usar los servicios del gobierno. Por lo tanto, la traducción correcta es: \"Federal Fees Law\" o \"Federal Law on Duties\"."
+          ]
+        }
+      },
+      {
+        "from_name": "label",
+        "id": "EaRuPiAhdu",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "labels",
+        "value": {
+          "end": 653,
+          "labels": [
+            "Style"
+          ],
+          "start": 646,
+          "text": "vigente"
+        }
+      },
+      {
+        "from_name": "severity",
+        "id": "EaRuPiAhdu",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "Minor"
+          ],
+          "end": 653,
+          "start": 646,
+          "text": "vigente"
+        }
+      },
+      {
+        "from_name": "subcategories",
+        "id": "EaRuPiAhdu",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "STYLE: Unnatural style"
+          ],
+          "end": 653,
+          "start": 646,
+          "text": "vigente"
+        }
+      },
+      {
+        "from_name": "comments",
+        "id": "EaRuPiAhdu",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "textarea",
+        "value": {
+          "end": 653,
+          "start": 646,
+          "text": [
+            "Hay muchas opciones entre las que podemos escoger para traducir la palabra \"vigente\", como \"valid\" o \"unexpired\". La traducción \"in effect\" no suena natural en este contexto."
+          ]
+        }
+      },
+      {
+        "from_name": "label",
+        "id": "B0fHwTSSOO",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "labels",
+        "value": {
+          "end": 989,
+          "labels": [
+            "Terminology"
+          ],
+          "start": 950,
+          "text": "constancia de inscripción del empleador"
+        }
+      },
+      {
+        "from_name": "subcategories",
+        "id": "B0fHwTSSOO",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "TERM: Wrong term"
+          ],
+          "end": 989,
+          "start": 950,
+          "text": "constancia de inscripción del empleador"
+        }
+      },
+      {
+        "from_name": "severity",
+        "id": "B0fHwTSSOO",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "Minor"
+          ],
+          "end": 989,
+          "start": 950,
+          "text": "constancia de inscripción del empleador"
+        }
+      },
+      {
+        "from_name": "comments",
+        "id": "B0fHwTSSOO",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "textarea",
+        "value": {
+          "end": 989,
+          "start": 950,
+          "text": [
+            "El término \"constancia de inscripción del empleador\" es un concepto específico dentro de los procedimientos oficiales que se traduce como \"Employer Registration Certificate\" en inglés."
+          ]
+        }
+      },
+      {
+        "from_name": "label",
+        "id": "Ia0U0RVkOb",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "labels",
+        "value": {
+          "end": 847,
+          "labels": [
+            "Terminology"
+          ],
+          "start": 825,
+          "text": "persona física o moral"
+        }
+      },
+      {
+        "from_name": "subcategories",
+        "id": "Ia0U0RVkOb",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "TERM: Wrong term"
+          ],
+          "end": 847,
+          "start": 825,
+          "text": "persona física o moral"
+        }
+      },
+      {
+        "from_name": "comments",
+        "id": "Ia0U0RVkOb",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "textarea",
+        "value": {
+          "end": 847,
+          "start": 825,
+          "text": [
+            "Los conceptos de \"persona física\" y \"persona moral\" son difíciles de traducir. Esencialmente, se refieren a individuos y entidades legales.\n"
+          ]
+        }
+      },
+      {
+        "from_name": "severity",
+        "id": "Ia0U0RVkOb",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "Major"
+          ],
+          "end": 847,
+          "start": 825,
+          "text": "persona física o moral"
+        }
+      },
+      {
+        "from_name": "label",
+        "id": "DuHSjH0K4m",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "labels",
+        "value": {
+          "end": 1129,
+          "labels": [
+            "Accuracy"
+          ],
+          "start": 1100,
+          "text": "bajo protesta de decir verdad"
+        }
+      },
+      {
+        "from_name": "subcategories",
+        "id": "DuHSjH0K4m",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "ACC: Mistranslation"
+          ],
+          "end": 1129,
+          "start": 1100,
+          "text": "bajo protesta de decir verdad"
+        }
+      },
+      {
+        "from_name": "severity",
+        "id": "DuHSjH0K4m",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "Minor"
+          ],
+          "end": 1129,
+          "start": 1100,
+          "text": "bajo protesta de decir verdad"
+        }
+      },
+      {
+        "from_name": "comments",
+        "id": "DuHSjH0K4m",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "textarea",
+        "value": {
+          "end": 1129,
+          "start": 1100,
+          "text": [
+            "La frase de cinco palabras \"bajo protesta de decir verdad\" se traduce con solo dos palabras: \"under oath\"."
+          ]
+        }
+      },
+      {
+        "from_name": "label",
+        "id": "H09pPojhKe",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "labels",
+        "value": {
+          "end": 1464,
+          "labels": [
+            "Terminology"
+          ],
+          "start": 1430,
+          "text": "Registro Federal de Contribuyentes"
+        }
+      },
+      {
+        "from_name": "subcategories",
+        "id": "H09pPojhKe",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "TERM: Does not match glossary"
+          ],
+          "end": 1464,
+          "start": 1430,
+          "text": "Registro Federal de Contribuyentes"
+        }
+      },
+      {
+        "from_name": "severity",
+        "id": "H09pPojhKe",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "Major"
+          ],
+          "end": 1464,
+          "start": 1430,
+          "text": "Registro Federal de Contribuyentes"
+        }
+      },
+      {
+        "from_name": "comments",
+        "id": "H09pPojhKe",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "textarea",
+        "value": {
+          "end": 1464,
+          "start": 1430,
+          "text": [
+            "\"Registro Federal de Contribuyentes\" es un término que debe estar en un glosario con su equivalente en inglés: \"Federal Taxpayer Registry\"."
+          ]
+        }
+      },
+      {
+        "from_name": "label",
+        "id": "E8kJqGjHV6",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "labels",
+        "value": {
+          "end": 108,
+          "labels": [
+            "Terminology"
+          ],
+          "start": 87,
+          "text": "residentes temporales"
+        }
+      },
+      {
+        "from_name": "subcategories",
+        "id": "E8kJqGjHV6",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "TERM: Does not match glossary"
+          ],
+          "end": 108,
+          "start": 87,
+          "text": "residentes temporales"
+        }
+      },
+      {
+        "from_name": "severity",
+        "id": "E8kJqGjHV6",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "Major"
+          ],
+          "end": 108,
+          "start": 87,
+          "text": "residentes temporales"
+        }
+      },
+      {
+        "from_name": "comments",
+        "id": "E8kJqGjHV6",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "textarea",
+        "value": {
+          "end": 108,
+          "start": 87,
+          "text": [
+            "El término \"residente temporal\" tiene muchas variaciones. Una vez que establecemos la traducción \"temporary resident\", debemos mantenerla consistentemente en todas las variaciones."
+          ]
+        }
+      },
+      {
+        "from_name": "label",
+        "id": "cCRCs59W4m",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "labels",
+        "value": {
+          "end": 33,
+          "labels": [
+            "Terminology"
+          ],
+          "start": 2,
+          "text": "Instituto Nacional de Migración"
+        }
+      },
+      {
+        "from_name": "subcategories",
+        "id": "cCRCs59W4m",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "TERM: Does not match glossary"
+          ],
+          "end": 33,
+          "start": 2,
+          "text": "Instituto Nacional de Migración"
+        }
+      },
+      {
+        "from_name": "severity",
+        "id": "cCRCs59W4m",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "Major"
+          ],
+          "end": 33,
+          "start": 2,
+          "text": "Instituto Nacional de Migración"
+        }
+      },
+      {
+        "from_name": "comments",
+        "id": "cCRCs59W4m",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "textarea",
+        "value": {
+          "end": 33,
+          "start": 2,
+          "text": [
+            "Aunque la traducción \"National Migration Institute\" para \"Instituto Nacional de Migración\" no suena muy idiomática, es la traducción utilizada en fuentes oficiales."
+          ]
+        }
+      },
+      {
+        "from_name": "label",
+        "id": "VOypACsSeD",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "labels",
+        "value": {
+          "end": 69,
+          "labels": [
+            "Terminology"
+          ],
+          "start": 51,
+          "text": "permiso de trabajo"
+        }
+      },
+      {
+        "from_name": "subcategories",
+        "id": "VOypACsSeD",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "TERM: Does not match glossary"
+          ],
+          "end": 69,
+          "start": 51,
+          "text": "permiso de trabajo"
+        }
+      },
+      {
+        "from_name": "severity",
+        "id": "VOypACsSeD",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "Major"
+          ],
+          "end": 69,
+          "start": 51,
+          "text": "permiso de trabajo"
+        }
+      },
+      {
+        "from_name": "comments",
+        "id": "VOypACsSeD",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "textarea",
+        "value": {
+          "end": 69,
+          "start": 51,
+          "text": [
+            "El término \"permiso de trabajo\" o \"work permit\" es clave en todo este documento y debe traducirse de manera consistente."
+          ]
+        }
+      },
+      {
+        "from_name": "label",
+        "id": "qSeKqoe0kO",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "labels",
+        "value": {
+          "end": 408,
+          "labels": [
+            "Terminology"
+          ],
+          "start": 378,
+          "text": "trámite migratorio de estancia"
+        }
+      },
+      {
+        "from_name": "subcategories",
+        "id": "qSeKqoe0kO",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "TERM: Does not match glossary"
+          ],
+          "end": 408,
+          "start": 378,
+          "text": "trámite migratorio de estancia"
+        }
+      },
+      {
+        "from_name": "severity",
+        "id": "qSeKqoe0kO",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "Minor"
+          ],
+          "end": 408,
+          "start": 378,
+          "text": "trámite migratorio de estancia"
+        }
+      },
+      {
+        "from_name": "comments",
+        "id": "qSeKqoe0kO",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "textarea",
+        "value": {
+          "end": 408,
+          "start": 378,
+          "text": [
+            "Para \"trámite migratorio de estancia\" debemos usar \"immigratory stay procedures\" ya que la palabra \"migratory\" se relaciona más con el movimiento de animales no humanos."
+          ]
+        }
+      },
+      {
+        "from_name": "label",
+        "id": "IVNBg48PeD",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "labels",
+        "value": {
+          "end": 801,
+          "labels": [
+            "Terminology"
+          ],
+          "start": 785,
+          "text": "oferta de empleo"
+        }
+      },
+      {
+        "from_name": "subcategories",
+        "id": "IVNBg48PeD",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "STYLE: Language register"
+          ],
+          "end": 801,
+          "start": 785,
+          "text": "oferta de empleo"
+        }
+      },
+      {
+        "from_name": "severity",
+        "id": "IVNBg48PeD",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "Minor"
+          ],
+          "end": 801,
+          "start": 785,
+          "text": "oferta de empleo"
+        }
+      },
+      {
+        "from_name": "comments",
+        "id": "IVNBg48PeD",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "textarea",
+        "value": {
+          "end": 801,
+          "start": 785,
+          "text": [
+            "Para traducir \"oferta de empleo\" en este contexto, debemos usar \"employment offer\" y no \"job offer\", ya que esta segunda opción suena informal."
+          ]
+        }
+      },
+      {
+        "from_name": "label",
+        "id": "L1MVF_QFhv",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "labels",
+        "value": {
+          "end": 1376,
+          "labels": [
+            "Accuracy"
+          ],
+          "start": 1366,
+          "text": "requisitar"
+        }
+      },
+      {
+        "from_name": "subcategories",
+        "id": "L1MVF_QFhv",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "ACC: Mistranslation"
+          ],
+          "end": 1376,
+          "start": 1366,
+          "text": "requisitar"
+        }
+      },
+      {
+        "from_name": "severity",
+        "id": "L1MVF_QFhv",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "Major"
+          ],
+          "end": 1376,
+          "start": 1366,
+          "text": "requisitar"
+        }
+      },
+      {
+        "from_name": "comments",
+        "id": "L1MVF_QFhv",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "textarea",
+        "value": {
+          "end": 1376,
+          "start": 1366,
+          "text": [
+            "Se debe traducir \"requisitar\" como \"filled out\" o \"completed\"."
+          ]
+        }
+      },
+      {
+        "from_name": "label",
+        "id": "rPi6o6MBaW",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "labels",
+        "value": {
+          "end": 1643,
+          "labels": [
+            "Terminology"
+          ],
+          "start": 1623,
+          "text": "carta de conformidad"
+        }
+      },
+      {
+        "from_name": "subcategories",
+        "id": "rPi6o6MBaW",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "TERM: Wrong term"
+          ],
+          "end": 1643,
+          "start": 1623,
+          "text": "carta de conformidad"
+        }
+      },
+      {
+        "from_name": "severity",
+        "id": "rPi6o6MBaW",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "Minor"
+          ],
+          "end": 1643,
+          "start": 1623,
+          "text": "carta de conformidad"
+        }
+      },
+      {
+        "from_name": "comments",
+        "id": "rPi6o6MBaW",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "textarea",
+        "value": {
+          "end": 1643,
+          "start": 1623,
+          "text": [
+            "Una traducción menos idiomática de \"carta de conformidad\" sería \"compliance letter\". Una traducción más idiomática sería algo como \"letter of good academic standing\". Esencialmente, el INM necesita confirmación de que el estatus del estudiante dentro de la universidad donde estudia cumple con los requisitos."
+          ]
+        }
+      },
+      {
+        "from_name": "label",
+        "id": "2KB7aRUzrh",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "labels",
+        "value": {
+          "end": 1933,
+          "labels": [
+            "Style"
+          ],
+          "start": 1921,
+          "text": "Presentación"
+        }
+      },
+      {
+        "from_name": "subcategories",
+        "id": "2KB7aRUzrh",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "STYLE: Unnatural style"
+          ],
+          "end": 1933,
+          "start": 1921,
+          "text": "Presentación"
+        }
+      },
+      {
+        "from_name": "severity",
+        "id": "2KB7aRUzrh",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "Minor"
+          ],
+          "end": 1933,
+          "start": 1921,
+          "text": "Presentación"
+        }
+      },
+      {
+        "from_name": "comments",
+        "id": "2KB7aRUzrh",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "textarea",
+        "value": {
+          "end": 1933,
+          "start": 1921,
+          "text": [
+            "Otra vez tenemos que evitar una traducción literal para la palabra \"presentación\". La traducción idiomática es: \"Format\"."
+          ]
+        }
+      },
+      {
+        "from_name": "label",
+        "id": "VlBwHf2GQG",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "labels",
+        "value": {
+          "end": 2569,
+          "labels": [
+            "Locale Conventions"
+          ],
+          "start": 2556,
+          "text": "$4,001.00 mxn"
+        }
+      },
+      {
+        "from_name": "subcategories",
+        "id": "VlBwHf2GQG",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "LOC: Currency"
+          ],
+          "end": 2569,
+          "start": 2556,
+          "text": "$4,001.00 mxn"
+        }
+      },
+      {
+        "from_name": "severity",
+        "id": "VlBwHf2GQG",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "Major"
+          ],
+          "end": 2569,
+          "start": 2556,
+          "text": "$4,001.00 mxn"
+        }
+      },
+      {
+        "from_name": "comments",
+        "id": "VlBwHf2GQG",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "textarea",
+        "value": {
+          "end": 2569,
+          "start": 2556,
+          "text": [
+            "La moneda de pesos mexicanos debe dejarse como está, ya que el solicitante pagará el monto adeudado en pesos, y vincular la cantidad mexicana a una cantidad en dólares estadounidenses, por ejemplo, sería complicado dadas las fluctuaciones en el tipo de cambio."
+          ]
+        }
+      },
+      {
+        "from_name": "label",
+        "id": "-fmVnxvStu",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "labels",
+        "value": {
+          "end": 1084,
+          "labels": [
+            "Style"
+          ],
+          "start": 1030,
+          "text": "En caso de actividades independientes, deberá adjuntar"
+        }
+      },
+      {
+        "from_name": "subcategories",
+        "id": "-fmVnxvStu",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "STYLE: Unnatural style"
+          ],
+          "end": 1084,
+          "start": 1030,
+          "text": "En caso de actividades independientes, deberá adjuntar"
+        }
+      },
+      {
+        "from_name": "severity",
+        "id": "-fmVnxvStu",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "Minor"
+          ],
+          "end": 1084,
+          "start": 1030,
+          "text": "En caso de actividades independientes, deberá adjuntar"
+        }
+      },
+      {
+        "from_name": "comments",
+        "id": "-fmVnxvStu",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "textarea",
+        "value": {
+          "end": 1084,
+          "start": 1030,
+          "text": [
+            "Hay que reformular toda la frase \"En caso de actividades independientes, deberá adjuntar\" para que se lea naturalmente. Por ejemplo: \"Self-employed individuals should attach...\""
+          ]
+        }
+      },
+      {
+        "from_name": "label",
+        "id": "51K8EXAW1j",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "labels",
+        "value": {
+          "end": 1779,
+          "labels": [
+            "Accuracy"
+          ],
+          "start": 1727,
+          "text": "estudios de nivel superior, posgrado e investigación"
+        }
+      },
+      {
+        "from_name": "subcategories",
+        "id": "51K8EXAW1j",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "ACC: Mistranslation"
+          ],
+          "end": 1779,
+          "start": 1727,
+          "text": "estudios de nivel superior, posgrado e investigación"
+        }
+      },
+      {
+        "from_name": "severity",
+        "id": "51K8EXAW1j",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "Major"
+          ],
+          "end": 1779,
+          "start": 1727,
+          "text": "estudios de nivel superior, posgrado e investigación"
+        }
+      },
+      {
+        "from_name": "comments",
+        "id": "51K8EXAW1j",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "textarea",
+        "value": {
+          "end": 1779,
+          "start": 1727,
+          "text": [
+            "La redacción de \"estudios de nivel superior, posgrado e investigación\" en el texto fuente es confusa, ya que no es lógico que una persona esté completando todos estos tipos de estudios al mismo tiempo. Podemos mejorar el texto fuente traduciéndolo como: \"undergraduate studies, graduate studies or research\". En inglés \"graduate studies\" se refiere tanto a estudios de maestría como a estudios doctorales."
+          ]
+        }
+      },
+      {
+        "from_name": "label",
+        "id": "KrnKG_Jyu5",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "labels",
+        "value": {
+          "end": 2271,
+          "labels": [
+            "Accuracy"
+          ],
+          "start": 2259,
+          "text": "copia simple"
+        }
+      },
+      {
+        "from_name": "subcategories",
+        "id": "KrnKG_Jyu5",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "ACC: Mistranslation"
+          ],
+          "end": 2271,
+          "start": 2259,
+          "text": "copia simple"
+        }
+      },
+      {
+        "from_name": "severity",
+        "id": "KrnKG_Jyu5",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "Minor"
+          ],
+          "end": 2271,
+          "start": 2259,
+          "text": "copia simple"
+        }
+      },
+      {
+        "from_name": "comments",
+        "id": "KrnKG_Jyu5",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "textarea",
+        "value": {
+          "end": 2271,
+          "start": 2259,
+          "text": [
+            "Aquí, \"copia simple\" no es un concepto especial, simplemente indica que no se necesita una copia certificada o legalizada. Para transmitir esto de manera idiomática, podemos traducir al inglés como: \"simple photocopies\". Nótese que el inglés necesita estar en plural, mientras que el español está en singular."
+          ]
+        }
+      },
+      {
+        "from_name": "label",
+        "id": "MGttaXjOlc",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "labels",
+        "value": {
+          "end": 2637,
+          "labels": [
+            "Style"
+          ],
+          "start": 2629,
+          "text": "Concepto"
+        }
+      },
+      {
+        "from_name": "subcategories",
+        "id": "MGttaXjOlc",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "STYLE: Unnatural style"
+          ],
+          "end": 2637,
+          "start": 2629,
+          "text": "Concepto"
+        }
+      },
+      {
+        "from_name": "severity",
+        "id": "MGttaXjOlc",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "Minor"
+          ],
+          "end": 2637,
+          "start": 2629,
+          "text": "Concepto"
+        }
+      },
+      {
+        "from_name": "comments",
+        "id": "MGttaXjOlc",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "textarea",
+        "value": {
+          "end": 2637,
+          "start": 2629,
+          "text": [
+            "Se debe usar una traducción idiomática como \"Item\" para \"Concepto\"."
+          ]
+        }
+      },
+      {
+        "from_name": "label",
+        "id": "46EYJx7vuL",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "labels",
+        "value": {
+          "end": 2707,
+          "labels": [
+            "Style"
+          ],
+          "start": 2700,
+          "text": "estudio"
+        }
+      },
+      {
+        "from_name": "subcategories",
+        "id": "46EYJx7vuL",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "STYLE: Unnatural style"
+          ],
+          "end": 2707,
+          "start": 2700,
+          "text": "estudio"
+        }
+      },
+      {
+        "from_name": "severity",
+        "id": "46EYJx7vuL",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "Minor"
+          ],
+          "end": 2707,
+          "start": 2700,
+          "text": "estudio"
+        }
+      },
+      {
+        "from_name": "comments",
+        "id": "46EYJx7vuL",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "textarea",
+        "value": {
+          "end": 2707,
+          "start": 2700,
+          "text": [
+            "Una traducción literal de \"estudio\" es \"study\". Aquí el texto se refiere a la \"review\" de la solicitud."
+          ]
+        }
+      },
+      {
+        "from_name": "label",
+        "id": "QKvEaVldSJ",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "labels",
+        "value": {
+          "end": 2956,
+          "labels": [
+            "Accuracy"
+          ],
+          "start": 2943,
+          "text": "hoja de ayuda"
+        }
+      },
+      {
+        "from_name": "subcategories",
+        "id": "QKvEaVldSJ",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "ACC: Mistranslation"
+          ],
+          "end": 2956,
+          "start": 2943,
+          "text": "hoja de ayuda"
+        }
+      },
+      {
+        "from_name": "comments",
+        "id": "QKvEaVldSJ",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "textarea",
+        "value": {
+          "end": 2956,
+          "start": 2943,
+          "text": [
+            "\"Hoja de ayuda\" en este contexto se puede traducir como \"help form\" o \"assistance form\" - es un formulario en línea que guía a los solicitantes a través del proceso de generar la \"línea de captura\"."
+          ]
+        }
+      },
+      {
+        "from_name": "label",
+        "id": "_UScmKPBzh",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "labels",
+        "value": {
+          "end": 3743,
+          "labels": [
+            "Style"
+          ],
+          "start": 3699,
+          "text": "oficina de atención a trámites del Instituto"
+        }
+      },
+      {
+        "from_name": "subcategories",
+        "id": "_UScmKPBzh",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "STYLE: Unnatural style"
+          ],
+          "end": 3743,
+          "start": 3699,
+          "text": "oficina de atención a trámites del Instituto"
+        }
+      },
+      {
+        "from_name": "severity",
+        "id": "_UScmKPBzh",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "Minor"
+          ],
+          "end": 3743,
+          "start": 3699,
+          "text": "oficina de atención a trámites del Instituto"
+        }
+      },
+      {
+        "from_name": "comments",
+        "id": "_UScmKPBzh",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "textarea",
+        "value": {
+          "end": 3743,
+          "start": 3699,
+          "text": [
+            "No compliques demasiado la traducción de \"oficina de atención a trámites del Instituto\". La traducción al inglés se puede simplificar a: \"public INM office\"."
+          ]
+        }
+      },
+      {
+        "from_name": "label",
+        "id": "2Wg56SMfFf",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "labels",
+        "value": {
+          "end": 4080,
+          "labels": [
+            "Style"
+          ],
+          "start": 4066,
+          "text": "Vía telefónica"
+        }
+      },
+      {
+        "from_name": "subcategories",
+        "id": "2Wg56SMfFf",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "STYLE: Unnatural style"
+          ],
+          "end": 4080,
+          "start": 4066,
+          "text": "Vía telefónica"
+        }
+      },
+      {
+        "from_name": "severity",
+        "id": "2Wg56SMfFf",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "Minor"
+          ],
+          "end": 4080,
+          "start": 4066,
+          "text": "Vía telefónica"
+        }
+      },
+      {
+        "from_name": "comments",
+        "id": "2Wg56SMfFf",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "textarea",
+        "value": {
+          "end": 4080,
+          "start": 4066,
+          "text": [
+            "Yo simplemente traduciría \"Vía telefónica\" como \"Telephone\". Será claro para los lectores que \"Telephone\" pretende señalarles un número telefónico."
+          ]
+        }
+      },
+      {
+        "from_name": "label",
+        "id": "TrhV-mG9yv",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "labels",
+        "value": {
+          "end": 4096,
+          "labels": [
+            "Style"
+          ],
+          "start": 4085,
+          "text": "orientación"
+        }
+      },
+      {
+        "from_name": "subcategories",
+        "id": "TrhV-mG9yv",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "STYLE: Unnatural style"
+          ],
+          "end": 4096,
+          "start": 4085,
+          "text": "orientación"
+        }
+      },
+      {
+        "from_name": "severity",
+        "id": "TrhV-mG9yv",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "Minor"
+          ],
+          "end": 4096,
+          "start": 4085,
+          "text": "orientación"
+        }
+      },
+      {
+        "from_name": "comments",
+        "id": "TrhV-mG9yv",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "textarea",
+        "value": {
+          "end": 4096,
+          "start": 4085,
+          "text": [
+            "Una traducción literal de \"orientación\" que realmente no tiene sentido en contexto es \"orientation\". Traducciones mejores y más idiomáticas son: \"information\" o incluso \"customer service\"."
+          ]
+        }
+      },
+      {
+        "from_name": "label",
+        "id": "wqGpqEi-ml",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "labels",
+        "value": {
+          "end": 3624,
+          "labels": [
+            "Style"
+          ],
+          "start": 3612,
+          "text": "tu solicitud"
+        }
+      },
+      {
+        "from_name": "subcategories",
+        "id": "wqGpqEi-ml",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "STYLE: Language register"
+          ],
+          "end": 3624,
+          "start": 3612,
+          "text": "tu solicitud"
+        }
+      },
+      {
+        "from_name": "severity",
+        "id": "wqGpqEi-ml",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "Minor"
+          ],
+          "end": 3624,
+          "start": 3612,
+          "text": "tu solicitud"
+        }
+      },
+      {
+        "from_name": "comments",
+        "id": "wqGpqEi-ml",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "textarea",
+        "value": {
+          "end": 3624,
+          "start": 3612,
+          "text": [
+            "Otro uso de la forma de tú."
+          ]
+        }
+      },
+      {
+        "from_name": "label",
+        "id": "Nm4uZCyPBM",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "labels",
+        "value": {
+          "end": 3988,
+          "labels": [
+            "Style"
+          ],
+          "start": 3946,
+          "text": "se sugiere contactar vía telefónica a ésta"
+        }
+      },
+      {
+        "from_name": "subcategories",
+        "id": "Nm4uZCyPBM",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "STYLE: Language register"
+          ],
+          "end": 3988,
+          "start": 3946,
+          "text": "se sugiere contactar vía telefónica a ésta"
+        }
+      },
+      {
+        "from_name": "severity",
+        "id": "Nm4uZCyPBM",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "Minor"
+          ],
+          "end": 3988,
+          "start": 3946,
+          "text": "se sugiere contactar vía telefónica a ésta"
+        }
+      },
+      {
+        "from_name": "comments",
+        "id": "Nm4uZCyPBM",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "textarea",
+        "value": {
+          "end": 3988,
+          "start": 3946,
+          "text": [
+            "Ten cuidado de no traducir \"se sugiere contactar vía telefónica a ésta\" de manera demasiado informal o incómoda. Puedes reformular esto en inglés como algo así: \"you can contact us by telephone\"."
+          ]
+        }
+      },
+      {
+        "from_name": "label",
+        "id": "cB4TPct1wE",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "labels",
+        "value": {
+          "end": 3588,
+          "labels": [
+            "Style"
+          ],
+          "start": 3578,
+          "text": "tu trámite"
+        }
+      },
+      {
+        "from_name": "subcategories",
+        "id": "cB4TPct1wE",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "STYLE: Language register"
+          ],
+          "end": 3588,
+          "start": 3578,
+          "text": "tu trámite"
+        }
+      },
+      {
+        "from_name": "severity",
+        "id": "cB4TPct1wE",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "Minor"
+          ],
+          "end": 3588,
+          "start": 3578,
+          "text": "tu trámite"
+        }
+      },
+      {
+        "from_name": "comments",
+        "id": "cB4TPct1wE",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "textarea",
+        "value": {
+          "end": 3588,
+          "start": 3578,
+          "text": [
+            "Otra vez es notable que se usa la forma de tú aunque se trata de una comunicación formal."
+          ]
+        }
+      },
+      {
+        "from_name": "label",
+        "id": "YRLanTuCl2",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "labels",
+        "value": {
+          "end": 2348,
+          "labels": [
+            "Accuracy"
+          ],
+          "start": 2339,
+          "text": "una copia"
+        }
+      },
+      {
+        "from_name": "subcategories",
+        "id": "YRLanTuCl2",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "ACC: Mistranslation"
+          ],
+          "end": 2348,
+          "start": 2339,
+          "text": "una copia"
+        }
+      },
+      {
+        "from_name": "severity",
+        "id": "YRLanTuCl2",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "Major"
+          ],
+          "end": 2348,
+          "start": 2339,
+          "text": "una copia"
+        }
+      },
+      {
+        "from_name": "comments",
+        "id": "YRLanTuCl2",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "textarea",
+        "value": {
+          "end": 2348,
+          "start": 2339,
+          "text": [
+            "Mientras que el español usa un singular \"una copia\", en la traducción sería mejor usar el plural \"copies\" ya que el solicitante probablemente necesita entregar copias de múltiples formularios para los propósitos descritos aquí."
+          ]
+        }
+      },
+      {
+        "from_name": "label",
+        "id": "yGUyd5xMjX",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "labels",
+        "value": {
+          "end": 2820,
+          "labels": [
+            "Accuracy"
+          ],
+          "start": 2804,
+          "text": "línea de captura"
+        }
+      },
+      {
+        "from_name": "subcategories",
+        "id": "yGUyd5xMjX",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "ACC: Mistranslation"
+          ],
+          "end": 2820,
+          "start": 2804,
+          "text": "línea de captura"
+        }
+      },
+      {
+        "from_name": "severity",
+        "id": "yGUyd5xMjX",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "Major"
+          ],
+          "end": 2820,
+          "start": 2804,
+          "text": "línea de captura"
+        }
+      },
+      {
+        "from_name": "comments",
+        "id": "yGUyd5xMjX",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "textarea",
+        "value": {
+          "end": 2820,
+          "start": 2804,
+          "text": [
+            "La \"línea de captura\" no es un código de recibo, es el número de referencia de pago o código de pago que necesitas ANTES de hacer el pago. Ten cuidado de no traducir esto incorrectamente."
+          ]
+        }
+      },
+      {
+        "from_name": "label",
+        "id": "wBOrM6ORRo",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "labels",
+        "value": {
+          "end": 3276,
+          "labels": [
+            "Style"
+          ],
+          "start": 3087,
+          "text": "Registrar exactamente los nombres y apellidos completos con los que se está identificando la persona extranjera en la solicitud de trámite. (Sin importar la cantidad de nombres y apellidos)"
+        }
+      },
+      {
+        "from_name": "subcategories",
+        "id": "wBOrM6ORRo",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "STYLE: Unnatural style"
+          ],
+          "end": 3276,
+          "start": 3087,
+          "text": "Registrar exactamente los nombres y apellidos completos con los que se está identificando la persona extranjera en la solicitud de trámite. (Sin importar la cantidad de nombres y apellidos)"
+        }
+      },
+      {
+        "from_name": "severity",
+        "id": "wBOrM6ORRo",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "Minor"
+          ],
+          "end": 3276,
+          "start": 3087,
+          "text": "Registrar exactamente los nombres y apellidos completos con los que se está identificando la persona extranjera en la solicitud de trámite. (Sin importar la cantidad de nombres y apellidos)"
+        }
+      },
+      {
+        "from_name": "comments",
+        "id": "wBOrM6ORRo",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "textarea",
+        "value": {
+          "end": 3276,
+          "start": 3087,
+          "text": [
+            "Estas dos líneas se pueden combinar en una sola oración para una traducción más idiomática."
+          ]
+        }
+      },
+      {
+        "from_name": "label",
+        "id": "WOTlFp_AXV",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "labels",
+        "value": {
+          "end": 3549,
+          "labels": [
+            "Terminology"
+          ],
+          "start": 3512,
+          "text": "datos de identificación de la persona"
+        }
+      },
+      {
+        "from_name": "subcategories",
+        "id": "WOTlFp_AXV",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "TERM: Wrong term"
+          ],
+          "end": 3549,
+          "start": 3512,
+          "text": "datos de identificación de la persona"
+        }
+      },
+      {
+        "from_name": "severity",
+        "id": "WOTlFp_AXV",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "Minor"
+          ],
+          "end": 3549,
+          "start": 3512,
+          "text": "datos de identificación de la persona"
+        }
+      },
+      {
+        "from_name": "comments",
+        "id": "WOTlFp_AXV",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "textarea",
+        "value": {
+          "end": 3549,
+          "start": 3512,
+          "text": [
+            "El concepto de \"datos de identificación de la persona\" se refiere más frecuentemente como \"personally identifiable information\", especialmente desde que las leyes de privacidad de datos comenzaron a tomar efecto."
+          ]
+        }
+      },
+      {
+        "from_name": "label",
+        "id": "R1O6Am5EC8",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "labels",
+        "value": {
+          "end": 3673,
+          "labels": [
+            "Accuracy"
+          ],
+          "start": 3635,
+          "text": "imprime e ingresa de manera presencial"
+        }
+      },
+      {
+        "from_name": "subcategories",
+        "id": "R1O6Am5EC8",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "ACC: Mistranslation"
+          ],
+          "end": 3673,
+          "start": 3635,
+          "text": "imprime e ingresa de manera presencial"
+        }
+      },
+      {
+        "from_name": "severity",
+        "id": "R1O6Am5EC8",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "Major"
+          ],
+          "end": 3673,
+          "start": 3635,
+          "text": "imprime e ingresa de manera presencial"
+        }
+      },
+      {
+        "from_name": "comments",
+        "id": "R1O6Am5EC8",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "textarea",
+        "value": {
+          "end": 3673,
+          "start": 3635,
+          "text": [
+            "Para la traducción de \"imprime e ingresa de manera presencial\" necesitamos tener cuidado de traducir esto como \"print it and submit it in person\" en lugar de \"print and submit it in person\" ya que esta última sugiere que un solicitante puede hacer su impresión en la oficina del INM, lo cual no es posible."
+          ]
+        }
+      },
+      {
+        "from_name": "label",
+        "id": "ADKYIsiH3A",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "labels",
+        "value": {
+          "end": 2621,
+          "labels": [
+            "Locale Conventions"
+          ],
+          "start": 2608,
+          "text": "$4,001.00 mxn"
+        }
+      },
+      {
+        "from_name": "subcategories",
+        "id": "ADKYIsiH3A",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "LOC: Currency"
+          ],
+          "end": 2621,
+          "start": 2608,
+          "text": "$4,001.00 mxn"
+        }
+      },
+      {
+        "from_name": "severity",
+        "id": "ADKYIsiH3A",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "Major"
+          ],
+          "end": 2621,
+          "start": 2608,
+          "text": "$4,001.00 mxn"
+        }
+      },
+      {
+        "from_name": "comments",
+        "id": "ADKYIsiH3A",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "textarea",
+        "value": {
+          "end": 2621,
+          "start": 2608,
+          "text": [
+            "Otra vez, la moneda de pesos mexicanos debe dejarse como está."
+          ]
+        }
+      },
+      {
+        "from_name": "label",
+        "id": "bA_lIF_tkd",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "labels",
+        "value": {
+          "end": 2289,
+          "labels": [
+            "Style"
+          ],
+          "start": 2276,
+          "text": "el interesado"
+        }
+      },
+      {
+        "from_name": "subcategories",
+        "id": "bA_lIF_tkd",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "STYLE: Unnatural style"
+          ],
+          "end": 2289,
+          "start": 2276,
+          "text": "el interesado"
+        }
+      },
+      {
+        "from_name": "severity",
+        "id": "bA_lIF_tkd",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "Major"
+          ],
+          "end": 2289,
+          "start": 2276,
+          "text": "el interesado"
+        }
+      },
+      {
+        "from_name": "comments",
+        "id": "bA_lIF_tkd",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "textarea",
+        "value": {
+          "end": 2289,
+          "start": 2276,
+          "text": [
+            "Una traducción literal de \"el interesado\" sería \"the interested party\". En este contexto, una traducción mucho más idiomática es: \"the applicant\"."
+          ]
+        }
+      },
+      {
+        "from_name": "label",
+        "id": "0T6YMPibgq",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "labels",
+        "value": {
+          "end": 3853,
+          "labels": [
+            "Style"
+          ],
+          "start": 3843,
+          "text": "interesado"
+        }
+      },
+      {
+        "from_name": "subcategories",
+        "id": "0T6YMPibgq",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "STYLE: Unnatural style"
+          ],
+          "end": 3853,
+          "start": 3843,
+          "text": "interesado"
+        }
+      },
+      {
+        "from_name": "severity",
+        "id": "0T6YMPibgq",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "Major"
+          ],
+          "end": 3853,
+          "start": 3843,
+          "text": "interesado"
+        }
+      },
+      {
+        "from_name": "comments",
+        "id": "0T6YMPibgq",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "textarea",
+        "value": {
+          "end": 3853,
+          "start": 3843,
+          "text": [
+            "Una vez más, \"interesado\" no debe traducirse literalmente como \"interested party\". En este contexto, una traducción mucho más idiomática es: \"applicant\"."
+          ]
+        }
+      },
+      {
+        "from_name": "label",
+        "id": "x4_gnWQliQ",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "labels",
+        "value": {
+          "end": 2321,
+          "labels": [
+            "Accuracy"
+          ],
+          "start": 2299,
+          "text": "que se le acuse recibo"
+        }
+      },
+      {
+        "from_name": "subcategories",
+        "id": "x4_gnWQliQ",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "ACC: Mistranslation"
+          ],
+          "end": 2321,
+          "start": 2299,
+          "text": "que se le acuse recibo"
+        }
+      },
+      {
+        "from_name": "severity",
+        "id": "x4_gnWQliQ",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "Major"
+          ],
+          "end": 2321,
+          "start": 2299,
+          "text": "que se le acuse recibo"
+        }
+      },
+      {
+        "from_name": "comments",
+        "id": "x4_gnWQliQ",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "textarea",
+        "value": {
+          "end": 2321,
+          "start": 2299,
+          "text": [
+            "La frase \"que se le acuse recibo\" significa que el solicitante quisiera confirmación de que recibieron su solicitud. Esto se puede traducir como \"confirmation of receipt of the application\" o \"proof of receipt of the application\"."
+          ]
+        }
+      },
+      {
+        "from_name": "label",
+        "id": "zTAOd6tg5o",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "labels",
+        "value": {
+          "end": 4110,
+          "labels": [
+            "Locale Conventions"
+          ],
+          "start": 4098,
+          "text": "800 00 46264"
+        }
+      },
+      {
+        "from_name": "subcategories",
+        "id": "zTAOd6tg5o",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "LOC: Number"
+          ],
+          "end": 4110,
+          "start": 4098,
+          "text": "800 00 46264"
+        }
+      },
+      {
+        "from_name": "severity",
+        "id": "zTAOd6tg5o",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "Minor"
+          ],
+          "end": 4110,
+          "start": 4098,
+          "text": "800 00 46264"
+        }
+      },
+      {
+        "from_name": "comments",
+        "id": "zTAOd6tg5o",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "textarea",
+        "value": {
+          "end": 4110,
+          "start": 4098,
+          "text": [
+            "Sería útil incluir el código de marcación internacional +52 para México que un extranjero necesitaría incluir en el número telefónico cuando marque desde un número telefónico extranjero."
+          ]
+        }
+      },
+      {
+        "from_name": "label",
+        "id": "ohf25dec_S",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "labels",
+        "value": {
+          "end": 509,
+          "labels": [
+            "Audience Appropriateness"
+          ],
+          "start": 355,
+          "text": "Formato para solicitar trámite migratorio de estancia, llenado de manera electrónica a través de la página de internet, con firma autógrafa del promovente"
+        }
+      },
+      {
+        "from_name": "subcategories",
+        "id": "ohf25dec_S",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "AUD: Cultural-specific reference"
+          ],
+          "end": 509,
+          "start": 355,
+          "text": "Formato para solicitar trámite migratorio de estancia, llenado de manera electrónica a través de la página de internet, con firma autógrafa del promovente"
+        }
+      },
+      {
+        "from_name": "severity",
+        "id": "ohf25dec_S",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "Minor"
+          ],
+          "end": 509,
+          "start": 355,
+          "text": "Formato para solicitar trámite migratorio de estancia, llenado de manera electrónica a través de la página de internet, con firma autógrafa del promovente"
+        }
+      },
+      {
+        "from_name": "comments",
+        "id": "ohf25dec_S",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "textarea",
+        "value": {
+          "end": 509,
+          "start": 355,
+          "text": [
+            "Este texto enlazado lleva a un formato en español. Por lo menos podemos incluir una nota entre paréntesis indicando que el usuario llegará a contenido que tal vez no entienda al visitar el enlace."
+          ]
+        }
+      },
+      {
+        "from_name": "label",
+        "id": "jt9ph1db4S",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "labels",
+        "value": {
+          "end": 1129,
+          "labels": [
+            "Audience Appropriateness"
+          ],
+          "start": 1092,
+          "text": "Escrito bajo protesta de decir verdad"
+        }
+      },
+      {
+        "from_name": "subcategories",
+        "id": "jt9ph1db4S",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "AUD: Cultural-specific reference"
+          ],
+          "end": 1129,
+          "start": 1092,
+          "text": "Escrito bajo protesta de decir verdad"
+        }
+      },
+      {
+        "from_name": "severity",
+        "id": "jt9ph1db4S",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "Minor"
+          ],
+          "end": 1129,
+          "start": 1092,
+          "text": "Escrito bajo protesta de decir verdad"
+        }
+      },
+      {
+        "from_name": "comments",
+        "id": "jt9ph1db4S",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "textarea",
+        "value": {
+          "end": 1129,
+          "start": 1092,
+          "text": [
+            "Este texto enlazado lleva a un formato en español. Por lo menos podemos incluir una nota entre paréntesis indicando que el usuario llegará a contenido que tal vez no entienda al visitar el enlace."
+          ]
+        }
+      },
+      {
+        "from_name": "label",
+        "id": "VaM53D-53j",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "labels",
+        "value": {
+          "end": 2874,
+          "labels": [
+            "Audience Appropriateness"
+          ],
+          "start": 2870,
+          "text": "liga"
+        }
+      },
+      {
+        "from_name": "severity",
+        "id": "VaM53D-53j",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "Minor"
+          ],
+          "end": 2874,
+          "start": 2870,
+          "text": "liga"
+        }
+      },
+      {
+        "from_name": "comments",
+        "id": "VaM53D-53j",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "textarea",
+        "value": {
+          "end": 2874,
+          "start": 2870,
+          "text": [
+            "Este texto enlazado lleva a un formato en español. Por lo menos podemos incluir una nota entre paréntesis indicando que el usuario llegará a contenido que tal vez no entienda al visitar el enlace."
+          ]
+        }
+      },
+      {
+        "from_name": "label",
+        "id": "TyKN6HFeOF",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "labels",
+        "value": {
+          "end": 3743,
+          "labels": [
+            "Audience Appropriateness"
+          ],
+          "start": 3699,
+          "text": "oficina de atención a trámites del Instituto"
+        }
+      },
+      {
+        "from_name": "subcategories",
+        "id": "TyKN6HFeOF",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "AUD: Cultural-specific reference"
+          ],
+          "end": 3743,
+          "start": 3699,
+          "text": "oficina de atención a trámites del Instituto"
+        }
+      },
+      {
+        "from_name": "severity",
+        "id": "TyKN6HFeOF",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "Minor"
+          ],
+          "end": 3743,
+          "start": 3699,
+          "text": "oficina de atención a trámites del Instituto"
+        }
+      },
+      {
+        "from_name": "comments",
+        "id": "TyKN6HFeOF",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "textarea",
+        "value": {
+          "end": 3743,
+          "start": 3699,
+          "text": [
+            "Este texto enlazado lleva a un formato en español. Por lo menos podemos incluir una nota entre paréntesis indicando que el usuario llegará a contenido que tal vez no entienda al visitar el enlace."
+          ]
+        }
+      },
+      {
+        "from_name": "correspondence_comments",
+        "id": "iIy5nYAfwN",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "textarea",
+        "value": {
+          "text": [
+            "Aquí se puede compartir comentarios sobre la correspondencia general de la traducción."
+          ]
+        }
+      },
+      {
+        "from_name": "document_issues",
+        "id": "atBbmCj9yJ",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "textarea",
+        "value": {
+          "text": [
+            "Aquí se puede compartir comentarios sobre los problemas que se repiten a lo largo del documento."
+          ]
+        }
+      },
+      {
+        "from_name": "overall_readability",
+        "id": "Mq7T07sPb4",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "rating",
+        "value": {
+          "rating": 3
+        }
+      },
+      {
+        "from_name": "readability_comments",
+        "id": "En1sczs67-",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "textarea",
+        "value": {
+          "text": [
+            "Aquí se puede compartir comentarios sobre la legibilidad general de la traducción."
+          ]
+        }
+      },
+      {
+        "from_name": "overall_correspondence",
+        "id": "emOb4XO4jV",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "rating",
+        "value": {
+          "rating": 4
+        }
+      }
+    ],
+    "result_count": 50,
+    "task_id": 113,
+    "updated_at": "2025-09-12T23:46:09.424411Z"
+  },
+  "base_name": "texto1-inmigracion",
+  "created_at": "2025-08-19T00:19:17.313773Z",
+  "data": {
+    "text": "# Instituto Nacional de Migración\n\n## Obtención de permiso de trabajo para extranjeros residentes temporales en México\n\nSi eres extranjero residente temporal o temporal estudiante puedes solicitar permiso para trabajar en México.\n\n### Documentos necesarios\n\n| **Documento requerido** | **Presentación** |\n|-------------------------|------------------|\n| [Formato para solicitar trámite migratorio de estancia, llenado de manera electrónica a través de la página de internet, con firma autógrafa del promovente](https://www.inm.gob.mx/tramites/publico/estancia.html) | Original |\n| Tarjeta de residente temporal o de residente temporal estudiante vigente | Original |\n| Comprobante del pago de derechos que corresponda de conformidad con la Ley Federal de Derechos | Original |\n| Carta oferta de empleo en papel membretado de persona física o moral en la que se indique actividad a realizar, temporalidad requerida, lugar de trabajo y los datos de la constancia de inscripción del empleador debidamente actualizada | Original |\n\n**En caso de actividades independientes, deberá adjuntar:**\n\n- [Escrito bajo protesta de decir verdad](http://www.inm.gob.mx/static/vun_tramites/Escrito_para_trabajar_de_manera_independiente.pdf) en el que manifieste la ocupación a la que se dedicará y el lugar en el que desarrollará las actividades propias de su ocupación. Descargar y requisitar. **Original**\n\n- Comprobante de la inscripción en el Registro Federal de Contribuyentes. **Copia**\n\n- El residente temporal estudiante además de la tarjeta de residente, comprobante del pago de derechos y carta oferta de empleo, deberá presentar carta de conformidad de la institución educativa correspondiente. Lo anterior siempre y cuando, realice estudios de nivel superior, posgrado e investigación y la ocupación que pretenda desarrollar se encuentre relacionada con la materia de sus estudios. **Original**\n\n| **Documento requerido** | **Presentación** |\n|-------------------------|------------------|\n| En el caso de mayores de quince y menores de dieciocho años de edad, adicionalmente deberán exhibir los permisos o autorizaciones previstos en la normatividad laboral | Original y Copia |\n\n**Nota:** Los trámites deberán presentarse solamente en original, y sus anexos, en copia simple. Si el interesado requiere que se le acuse recibo, deberá adjuntar una copia para ese efecto. (Artículo 15 A fracción I de la Ley Federal de Procedimiento Administrativo)\n\n### Costos\n\n| **Tipo de residente** | **Costo** |\n|----------------------|-----------|\n| A Residente Temporal | $4,001.00 mxn |\n| A Residente Temporal Estudiante | $4,001.00 mxn |\n\n| **Concepto** | **Monto** |\n|--------------|-----------|\n| Por recepción, estudio y, en su caso, autorización de Permiso de trabajo | Monto variable |\n\n**Nota:** Para generar la línea de captura del pago correspondiente ingresa a la siguiente [liga](http://www.inm.gob.mx/gobmx/word/index.php/pago-de-derechos/).\n\nLa hoja de ayuda se deberá llenar atendiendo a las siguientes especificaciones:\n\n- Corroborar que corresponda con el tipo de trámite solicitado\n\n- Registrar exactamente los nombres y apellidos completos con los que se está identificando la persona extranjera en la solicitud de trámite. (Sin importar la cantidad de nombres y apellidos)\n\n- En caso de menores de edad, se deberá registrar el pago con los nombres y apellidos de los menores\n\n- Se sugiere revisar exhaustivamente los recibos de pago que emitan las instituciones bancarias, a fin de que no medie error en los datos de identificación de la persona\n\n### Opciones para realizar tu trámite\n\n**En línea:** Empieza tu solicitud en línea, imprime e ingresa de manera presencial.\n\n**Presencial:** En la [oficina de atención a trámites del Instituto](http://www.inm.gob.mx/gobmx/word/index.php/horarios-y-oficinas/) que corresponda al domicilio del interesado. En caso de que la ubicación de la Oficina de Representación que le corresponda sea lejana, se sugiere contactar vía telefónica a ésta, solicitando informes por una oficina del INM más cercana a su domicilio.\n\n**Vía telefónica:** (orientación) 800 00 46264.\n\n---\n\n**Fuente:** [Gobierno de México - Instituto Nacional de Migración](https://www.gob.mx/tramites/ficha/permiso-a-extranjeros-residentes-temporales-y-temporales-estudiantes-para-trabajar-en-mexico/INM795)"
+  },
+  "file_name": "texto1-inmigracion.md",
+  "meta_info": {
+    "assignment": "texto1-inmigracion",
+    "course": "TR18-2026-1",
+    "created_date": "2025-08-18T18:05:35.821413",
+    "instructor": "Alaina Brandt",
+    "source_file": "texto1-inmigracion.md",
+    "type": "answer_key"
+  },
+  "source_text": "# Instituto Nacional de Migración\n\n## Obtención de permiso de trabajo para extranjeros residentes temporales en México\n\nSi eres extranjero residente temporal o temporal estudiante puedes solicitar permiso para trabajar en México.\n\n### Documentos necesarios\n\n| **Documento requerido** | **Presentación** |\n|-------------------------|------------------|\n| [Formato para solicitar trámite migratorio de estancia, llenado de manera electrónica a través de la página de internet, con firma autógrafa del promovente](https://www.inm.gob.mx/tramites/publico/estancia.html) | Original |\n| Tarjeta de residente temporal o de residente temporal estudiante vigente | Original |\n| Comprobante del pago de derechos que corresponda de conformidad con la Ley Federal de Derechos | Original |\n| Carta oferta de empleo en papel membretado de persona física o moral en la que se indique actividad a realizar, temporalidad requerida, lugar de trabajo y los datos de la constancia de inscripción del empleador debidamente actualizada | Original |\n\n**En caso de actividades independientes, deberá adjuntar:**\n\n- [Escrito bajo protesta de decir verdad](http://www.inm.gob.mx/static/vun_tramites/Escrito_para_trabajar_de_manera_independiente.pdf) en el que manifieste la ocupación a la que se dedicará y el lugar en el que desarrollará las actividades propias de su ocupación. Descargar y requisitar. **Original**\n\n- Comprobante de la inscripción en el Registro Federal de Contribuyentes. **Copia**\n\n- El residente temporal estudiante además de la tarjeta de residente, comprobante del pago de derechos y carta oferta de empleo, deberá presentar carta de conformidad de la institución educativa correspondiente. Lo anterior siempre y cuando, realice estudios de nivel superior, posgrado e investigación y la ocupación que pretenda desarrollar se encuentre relacionada con la materia de sus estudios. **Original**\n\n| **Documento requerido** | **Presentación** |\n|-------------------------|------------------|\n| En el caso de mayores de quince y menores de dieciocho años de edad, adicionalmente deberán exhibir los permisos o autorizaciones previstos en la normatividad laboral | Original y Copia |\n\n**Nota:** Los trámites deberán presentarse solamente en original, y sus anexos, en copia simple. Si el interesado requiere que se le acuse recibo, deberá adjuntar una copia para ese efecto. (Artículo 15 A fracción I de la Ley Federal de Procedimiento Administrativo)\n\n### Costos\n\n| **Tipo de residente** | **Costo** |\n|----------------------|-----------|\n| A Residente Temporal | $4,001.00 mxn |\n| A Residente Temporal Estudiante | $4,001.00 mxn |\n\n| **Concepto** | **Monto** |\n|--------------|-----------|\n| Por recepción, estudio y, en su caso, autorización de Permiso de trabajo | Monto variable |\n\n**Nota:** Para generar la línea de captura del pago correspondiente ingresa a la siguiente [liga](http://www.inm.gob.mx/gobmx/word/index.php/pago-de-derechos/).\n\nLa hoja de ayuda se deberá llenar atendiendo a las siguientes especificaciones:\n\n- Corroborar que corresponda con el tipo de trámite solicitado\n\n- Registrar exactamente los nombres y apellidos completos con los que se está identificando la persona extranjera en la solicitud de trámite. (Sin importar la cantidad de nombres y apellidos)\n\n- En caso de menores de edad, se deberá registrar el pago con los nombres y apellidos de los menores\n\n- Se sugiere revisar exhaustivamente los recibos de pago que emitan las instituciones bancarias, a fin de que no medie error en los datos de identificación de la persona\n\n### Opciones para realizar tu trámite\n\n**En línea:** Empieza tu solicitud en línea, imprime e ingresa de manera presencial.\n\n**Presencial:** En la [oficina de atención a trámites del Instituto](http://www.inm.gob.mx/gobmx/word/index.php/horarios-y-oficinas/) que corresponda al domicilio del interesado. En caso de que la ubicación de la Oficina de Representación que le corresponda sea lejana, se sugiere contactar vía telefónica a ésta, solicitando informes por una oficina del INM más cercana a su domicilio.\n\n**Vía telefónica:** (orientación) 800 00 46264.\n\n---\n\n**Fuente:** [Gobierno de México - Instituto Nacional de Migración](https://www.gob.mx/tramites/ficha/permiso-a-extranjeros-residentes-temporales-y-temporales-estudiantes-para-trabajar-en-mexico/INM795)",
+  "task_id": 113,
+  "updated_at": "2025-09-12T23:46:09.534833Z"
+}

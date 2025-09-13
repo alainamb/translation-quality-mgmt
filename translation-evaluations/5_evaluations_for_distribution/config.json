@@ -1,0 +1,10 @@
+{
+  "translator": "Translator's Name",
+  "evaluator": "Alaina Brandt",
+  "identifier": "TR14",
+  "period": "2026-1",
+  "organization": "UIC",
+  "evaluation_files": {
+    "texto1-evaluation.json": "Life at Netapp"
+  }
+}
