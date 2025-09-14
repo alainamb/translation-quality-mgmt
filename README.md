@@ -169,6 +169,8 @@ This folder contains the web package necessary to display annotations dynamicall
 
 Of all of the files provided, only the config.json page needs to be configured to use the page. In the configuration file, you can set the translator's name, the name of the evaluator, etc., and this information will be displayed dynamically on the webpage. Under evaluation_files, you can list the names of pretty JSONs you made in the previous step of the annotations conducted in Label Studio and relate these to a pretty name for display in the dropdown menu on the webpage. That way, translators can select to view annotations of different pieces of their work all via a single webpage.
 
+#### Config.json
+
 ```
 {
   "translator": "Translator's Name",
@@ -182,7 +184,21 @@ Of all of the files provided, only the config.json page needs to be configured t
 }
 ```
 
-**How to...**
+#### Translation Evaluations and Example Text Analysis
+
+The [translation-evaluations.html](https://alainamb.github.io/translation-quality-mgmt/5_evaluations_for_distribution/translation-evaluations.html) page displays annotation data dynamically on the page. Via the dropdown menu, the annotation that one would like to view can be selected. The annotation that is available to view at the link is a markup of the example source text shared in `1_source_text_md_format/`. It is a markup of the areas of the source text, that if translated incorrectly, would result in errors in the translation.
+
+The evaluation is presented in full text format, with highlights over the spans that have been annotated. The highlights have a hover dialogue box associated with them, that indicates the error dimension and type, the severity level, and the comments association with the annotation.
+
+Then, the annotations are presented in a table view.
+
+At the bottom of the page overall correspondence and readability scores are displayed, along with comments on docoment-level ussues.
+
+The page ends with a section on **Inpreterting Your Translation Results**, which tells people how to determine the overall effectiveness of the translation, given the correspondence and readability scores.
+
+Example webpage with example source text analysis following MQM: [https://alainamb.github.io/translation-quality-mgmt/5_evaluations_for_distribution/translation-evaluations.html](https://alainamb.github.io/translation-quality-mgmt/5_evaluations_for_distribution/translation-evaluations.html)
+
+#### How to...
 
 - **Load the annotation data to the webpage?** Update the config.json file with your file names. 
 - **Customize the identifying text on the webpage?** Update the config.json file with your meta-data. 
