@@ -77,7 +77,7 @@ At first translation quality evaluators marking errors according to MQM (or any 
 - Within the Jupyter notebook, JSONs are pre-processed, exploratory analysis takes place, and performance around exact matching, F1 for partial matching, and Kappa for category agreement are calculated
 - Based upon the results determined via Jupyter analysis, an improvement plan that prioritizes the highest priority changes is implemented (i.e. training materials, discussions)
 - The work continues in this way until the annotations by a group of evaluators reach the minimum threshold scores for exact matching, F1 for partial matching, and Kappa for category agreement
-- The evaluators are then deployed to produce annotations that can be used to acheive the individual annotation goals.
+- The evaluators are then deployed to produce annotations that can be used to achieve the individual annotation goals.
 
 #### Individual Annotations
 
@@ -97,7 +97,7 @@ Download Visual Studio Code here: [https://code.visualstudio.com](https://code.v
 
 Then navigate to extensions in the side menu of VSC and install the Live Server extension.
 
-More detailed instrutions for getting the VSC environment ready can be found here: `5_evaluations_for_distribution/TranslationEvaluations-HowToDisplayYourFeedback.pdf`
+More detailed instructions for getting the VSC environment ready can be found here: `5_evaluations_for_distribution/TranslationEvaluations-HowToDisplayYourFeedback.pdf`
 
 ### Why start with source files in markdown format?
 
@@ -138,7 +138,7 @@ Start by creating a source text for translation in markdown (.md) format. An exa
 
 ### 2_md_to_json_conversion
 
-Translations in markdown format, can be converted to Label Studio compatibale JSON files by running `python md_to_json_converter.py`.
+Translations in markdown format, can be converted to Label Studio compatible JSON files by running `python md_to_json_converter.py`.
 
 To use the tool in this folder:
 1. Put the translations in .md format in this directory
@@ -151,17 +151,17 @@ Note: The tool has a function to remove YAML frontmatter that does not need to b
 
 ### 3_label_studio_input
 
-The files in this folder are used in the Label Studio projects that are annoted.
+The files in this folder are used in the Label Studio projects that are annotated.
 
 1. Create your Label Studio project
 2. Import the generated JSON files from the previous step into Label Studio
 3. Copy the contents of the `MQM-Translation-Errors_Core-Adapted.txt` file into the Labeling Interface (or create your own labeling interface) in Label Studio
-4. Do the annotaion
+4. Do the annotation
 5. Export the annotations from a Label Studio project to the `4_label_studio_ouput` folder
 
 ### 4_label_studio_ouput
 
-Export the annotations from a Label Studio project here. Run `python parse_evaluations.py` or `python parse_label_studio_export.py project-evaluation-export.json`to separate the evaluations of multiple files in one project file into unique JSON files. The script will also make the format of the JSON optimal for its display in the translation evaluations webpage discussed in the next step.
+Export the annotations from a Label Studio project here. Run `python parse_evaluations.py` or `python parse_evaluations.py project-evaluation-export.json` to separate the evaluations of multiple files in one project file into unique JSON files. The script will also make the format of the JSON optimal for its display in the translation evaluations webpage discussed in the next step.
 
 ### 5_evaluation_for_distribution
 
@@ -192,9 +192,9 @@ The evaluation is presented in full text format, with highlights over the spans 
 
 Then, the annotations are presented in a table view.
 
-At the bottom of the page overall correspondence and readability scores are displayed, along with comments on docoment-level ussues.
+At the bottom of the page overall correspondence and readability scores are displayed, along with comments on document-level issues.
 
-The page ends with a section on **Inpreterting Your Translation Results**, which tells people how to determine the overall effectiveness of the translation, given the correspondence and readability scores.
+The page ends with a section on **Interpreting Your Translation Results**, which tells people how to determine the overall effectiveness of the translation, given the correspondence and readability scores.
 
 Example webpage with example source text analysis following MQM: [https://alainamb.github.io/translation-quality-mgmt/5_evaluations_for_distribution/translation-evaluations.html](https://alainamb.github.io/translation-quality-mgmt/5_evaluations_for_distribution/translation-evaluations.html)
 
