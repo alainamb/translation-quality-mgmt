@@ -1,0 +1,201 @@
+{
+  "annotation_data": {
+    "created_at": "2025-10-02T20:49:35.076022Z",
+    "lead_time": 249.208,
+    "result": [
+      {
+        "from_name": "label",
+        "id": "3cdaK1sz24",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "labels",
+        "value": {
+          "end": 632,
+          "labels": [
+            "Style"
+          ],
+          "start": 301,
+          "text": "The issues and expectations-exceeding performance that quality reviewers flag help quality managers understand where to encourage good performance and where to focus root-cause analysis to prevent issues, and root-cause analyses help project managers optimize processes and resources to build high performing productions over time."
+        }
+      },
+      {
+        "from_name": "subcategories",
+        "id": "3cdaK1sz24",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "STYLE: Unnatural style"
+          ],
+          "end": 632,
+          "start": 301,
+          "text": "The issues and expectations-exceeding performance that quality reviewers flag help quality managers understand where to encourage good performance and where to focus root-cause analysis to prevent issues, and root-cause analyses help project managers optimize processes and resources to build high performing productions over time."
+        }
+      },
+      {
+        "from_name": "severity",
+        "id": "3cdaK1sz24",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "Neutral"
+          ],
+          "end": 632,
+          "start": 301,
+          "text": "The issues and expectations-exceeding performance that quality reviewers flag help quality managers understand where to encourage good performance and where to focus root-cause analysis to prevent issues, and root-cause analyses help project managers optimize processes and resources to build high performing productions over time."
+        }
+      },
+      {
+        "from_name": "comments",
+        "id": "3cdaK1sz24",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "textarea",
+        "value": {
+          "end": 632,
+          "start": 301,
+          "text": [
+            "This is a difficult sentence to translate. It's hard to follow both in the source text and in the target text. Don't be afraid to improve upon the source by reformulating this sentence so that it is easier to understand. "
+          ]
+        }
+      },
+      {
+        "from_name": "label",
+        "id": "9H7yNCaXF2",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "labels",
+        "value": {
+          "end": 763,
+          "labels": [
+            "Terminology"
+          ],
+          "start": 724,
+          "text": "accuracy, consistency, and completeness"
+        }
+      },
+      {
+        "from_name": "subcategories",
+        "id": "9H7yNCaXF2",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "TERM: Inconsistent use"
+          ],
+          "end": 763,
+          "start": 724,
+          "text": "accuracy, consistency, and completeness"
+        }
+      },
+      {
+        "from_name": "severity",
+        "id": "9H7yNCaXF2",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "choices",
+        "value": {
+          "choices": [
+            "Neutral"
+          ],
+          "end": 763,
+          "start": 724,
+          "text": "accuracy, consistency, and completeness"
+        }
+      },
+      {
+        "from_name": "comments",
+        "id": "9H7yNCaXF2",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "textarea",
+        "value": {
+          "end": 763,
+          "start": 724,
+          "text": [
+            "The ideas \"accuracy, consistency, and completeness\" can be translated in various ways. The translation should successfully situate these concepts within the domain of language studies, using standard terminology that complements well with terminology for \"coherence\" and other specialized subjects."
+          ]
+        }
+      },
+      {
+        "from_name": "document_issues",
+        "id": "Kthrwym79X",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "textarea",
+        "value": {
+          "text": [
+            "Ready to report document-level issues here, such as not preserving the markdown formatting."
+          ]
+        }
+      },
+      {
+        "from_name": "overall_correspondence",
+        "id": "V63C1ajmy4",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "rating",
+        "value": {
+          "rating": 4
+        }
+      },
+      {
+        "from_name": "correspondence_comments",
+        "id": "9E7rGkgy6Q",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "textarea",
+        "value": {
+          "text": [
+            "Overall comments about translation correspondence"
+          ]
+        }
+      },
+      {
+        "from_name": "readability_comments",
+        "id": "bnWnH5Xh1N",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "textarea",
+        "value": {
+          "text": [
+            "Overall comments about translation readability"
+          ]
+        }
+      },
+      {
+        "from_name": "overall_readability",
+        "id": "0xdhw59CfT",
+        "origin": "manual",
+        "to_name": "text",
+        "type": "rating",
+        "value": {
+          "rating": 4
+        }
+      }
+    ],
+    "result_count": 7,
+    "task_id": 149,
+    "updated_at": "2025-10-02T20:49:35.076053Z"
+  },
+  "base_name": "intro-to-quality-reviews-sample",
+  "created_at": "2025-10-02T20:45:22.456908Z",
+  "data": {
+    "text": "Quality reviews are scheduled after common production tasks within translation and localization workflows as a check to ensure that the developing product meets the minimum quality standards for that stage, and to prevent unnecessary downstream issues and losses related to rework becoming necessary. The issues and expectations-exceeding performance that quality reviewers flag help quality managers understand where to encourage good performance and where to focus root-cause analysis to prevent issues, and root-cause analyses help project managers optimize processes and resources to build high performing productions over time.\n\n## Quality Reviewer - Primary Duties\n\n- **Review translated technical documentation** for accuracy, consistency, and completeness, including correct measurement conversions and proper application of language-specific conventions\n\n---\n\n*Source: Adapted from Iverson Language Associates Quality Reviewer Training Materials*"
+  },
+  "file_name": "intro-to-quality-reviews-sample.md",
+  "meta_info": {
+    "converter": "md_to_json_converter",
+    "created_date": "2025-10-02T14:44:00.672334",
+    "source_file": "intro-to-quality-reviews-sample.md",
+    "text_name": "intro-to-quality-reviews-sample",
+    "type": "text_for_annotation"
+  },
+  "source_text": "Quality reviews are scheduled after common production tasks within translation and localization workflows as a check to ensure that the developing product meets the minimum quality standards for that stage, and to prevent unnecessary downstream issues and losses related to rework becoming necessary. The issues and expectations-exceeding performance that quality reviewers flag help quality managers understand where to encourage good performance and where to focus root-cause analysis to prevent issues, and root-cause analyses help project managers optimize processes and resources to build high performing productions over time.\n\n## Quality Reviewer - Primary Duties\n\n- **Review translated technical documentation** for accuracy, consistency, and completeness, including correct measurement conversions and proper application of language-specific conventions\n\n---\n\n*Source: Adapted from Iverson Language Associates Quality Reviewer Training Materials*",
+  "task_id": 149,
+  "updated_at": "2025-10-02T20:49:35.136074Z"
+}

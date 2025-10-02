@@ -5,6 +5,7 @@
   "period": "2026-1",
   "organization": "UIC",
   "evaluation_files": {
-    "texto1-inmigracion-evaluation.json": "INM Work Permit"
+    "texto1-inmigracion-evaluation.json": "INM Work Permit",
+    "intro-to-quality-reviews-sample-evaluation.json": "Quality Review Sample"
   }
 }

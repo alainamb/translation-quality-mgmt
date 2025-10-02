@@ -25,29 +25,28 @@
         <Choices name="subcategories" toName="text" perRegion="true" layout="inline">
           <Header value="Subcategories" />
           <Choice value="TERM: Incorrect term" hotkey="7" />
-          <Choice value="TERM: Inconsistent use" hotkey="8" />
-          <Choice value="TERM: Overly consistent use" hotkey="9" />
+          <Choice value="TERM: Consistency in use" hotkey="8" />
+          <Choice value="TERM: Quality Marker" hotkey="9" />
           <Choice value="ACC: Mistranslation" hotkey="q" />
-          <Choice value="ACC: Addition" hotkey="w" />
-          <Choice value="ACC: Omission" hotkey="e" />
-          <Choice value="ACC: Shouldn't be translated" hotkey="t" />
-          <Choice value="ACC: Wasn't translated" hotkey="a" />
-          <Choice value="STYLE: Text-type conventions" hotkey="g" />
-          <Choice value="STYLE: Organizational style" hotkey="z" />
-          <Choice value="STYLE: Third-party style" hotkey="x" />
+          <Choice value="ACC: Completeness" hotkey="w" />
+          <Choice value="ACC: Untranslatability" hotkey="t" />
+          <Choice value="ACC: Quality Marker" hotkey="y" />
+          <Choice value="STYLE: Text-type" hotkey="g" />
+          <Choice value="STYLE: Guidelines" hotkey="z" />
           <Choice value="STYLE: External reference" hotkey="c" />
-          <Choice value="STYLE: Language register" hotkey="v" />
-          <Choice value="STYLE: Unnatural style" hotkey="b" />
-          <Choice value="STYLE: Inconsistent style" hotkey="y" />
+          <Choice value="STYLE: Register" hotkey="x" />
+          <Choice value="STYLE: Unnatural" hotkey="b" />
+          <Choice value="STYLE: Inconsistent" hotkey="y" />
+          <Choice value="STYLE: Quality Marker" hotkey="y" />
           <Choice value="LING: Grammar" hotkey="s" />
           <Choice value="LING: Punctuation" hotkey="d" />
           <Choice value="LING: Spelling" hotkey="f" />
+          <Choice value="LING: Quality Marker" hotkey="y" />
           <Choice value="LOC: Number" hotkey="i" />
-          <Choice value="LOC: Currency" hotkey="o" />
-          <Choice value="LOC: Measurement" hotkey="p" />
-          <Choice value="LOC: Date" hotkey="j" />
+          <Choice value="LOC: Quality Marker" hotkey="y" />
           <Choice value="AUD: Cultural-specific reference" hotkey="k" />
           <Choice value="AUD: Offensive" hotkey="l" />
+          <Choice value="AUD: Quality Marker" hotkey="y" />
         </Choices>
       </View>
       
